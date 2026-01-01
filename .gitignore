@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Plots and output directories
+Plots_McKeanVlasov_1d/*
+!Plots_McKeanVlasov_1d/.gitkeep
+
+# Ignore .DS_Store (macOS)
+.DS_Store
+
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore system files
+*.log
+*.tmp
+*.swp
